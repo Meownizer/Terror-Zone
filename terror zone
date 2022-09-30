@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Terror Zone Tracker</title>
+    <style>
+        /* BASE */
+
+        html { font-size:100%; }
+        body { padding: 40px 0 20px; margin: 0; font: 13px/1.333 "lucida grande", tahoma, sans-serif; color: #333; background: #fff;}
+
+        a, a:visited { color: #980905; }
+        a:hover, a:focus, a:active { text-decoration: none; }
+    </style>
+</head>
+<div class="section">
+    <a href="https://htmlpreview.github.io/?https://d2runewizard.com/terror-zone-tracker"></a>.
+</div>
+
+</body>
+</html>
